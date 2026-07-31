@@ -1,4 +1,4 @@
 # python-calculator
 This is my first python calculator.
 <br>
-Author - Muhammad Khan
+Author - Muhammad Khan(AI Engineer)
